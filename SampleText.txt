@@ -1,1 +1,1 @@
-Hello! This is file has been created by User1.
+Hello! This is file has been modified by User1 for merge conflict.
